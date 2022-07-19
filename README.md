@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizcazahra
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on Machine Learning's Project
+- 🌱 I’m currently learning Neural Networks 
+- 💞️ I’m looking to collaborate on Deep Learning's Project
 - 📫 How to reach me https://www.linkedin.com/in/rizcazahra/
 
 <!---
